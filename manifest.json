@@ -1,0 +1,11 @@
+{
+  "Name": "UnityExplorer",
+  "GUID": "com.sinai.unityexplorer",
+  "Versions": [
+    "4.9.0"
+  ],
+  "url": "https://github.com/FarlandsModdingTeam/UnityExplorer",
+  "Dependencies": [
+    "fm.fcm"
+  ]
+}
